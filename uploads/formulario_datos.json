@@ -1,0 +1,30 @@
+[
+  {
+    "firstName": "Daniel",
+    "lastName": "Coronel",
+    "email": "epinotti@fedesconsultora.com",
+    "phone": "2346304036",
+    "date": "22/7/2024, 10:19:36"
+  },
+  {
+    "firstName": "Juana",
+    "lastName": "Moreira",
+    "email": "Juanimore@gmail.com",
+    "phone": "2342342",
+    "date": "22/7/2024, 10:19:47"
+  },
+  {
+    "firstName": "Marina",
+    "lastName": "Perez",
+    "email": "Mariperez@gmail.com",
+    "phone": "34534523",
+    "date": "22/7/2024, 01:57:01"
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Uno",
+    "email": "Pedrouno@gmail.com",
+    "phone": "2342342",
+    "date": "22/7/2024, 03:53:51"
+  }
+]
